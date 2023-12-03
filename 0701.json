@@ -1,6 +1,6 @@
 // 配置地址 --> clan://localhost/TVBox/0701.json
 {
-"spider":"https://github.com/77Evans/Evans_TVBox/blob/raw/main/0701.jar",
+"spider":"./0701.jar",
 "lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 
